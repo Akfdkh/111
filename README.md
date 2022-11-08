@@ -1,1 +1,6 @@
-HELLO
+#HELLO
+
+*italicized text*
+
+**bold text**
+
